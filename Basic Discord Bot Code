@@ -1,0 +1,16 @@
+# essentials
+import discord
+import random
+
+from discord.ext import commands
+
+# prefix
+client = commands.Bot(command_prefix = '!')
+
+# Bot is ready msg
+@client.event
+async def on_ready():
+    print('Bot is online!')
+
+# bot token
+client.run('ODI2NjMxODk5NzM1OTE2NTc1.YGPS8g.jpaiZm-aNtuEPJ8kFP0Z9sG30Ig')
