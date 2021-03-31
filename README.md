@@ -1,2 +1,3 @@
 # Discord-Bot
-discord bot
+
+this is updated until python 3.9
