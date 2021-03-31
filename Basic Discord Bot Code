@@ -13,4 +13,4 @@ async def on_ready():
     print('Bot is online!')
 
 # bot token
-client.run('ODI2NjMxODk5NzM1OTE2NTc1.YGPS8g.jpaiZm-aNtuEPJ8kFP0Z9sG30Ig')
+client.run('your token here')
