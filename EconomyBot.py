@@ -438,4 +438,4 @@ async def update_bank(user,change=0,mode = 'wallet'):
     
 
 # bot token
-client.run('ODI2NjMxODk5NzM1OTE2NTc1.YGPS8g.dwLUucSxIpV0GgEG7YT7Z77q_0Y')
+client.run('enter ur token')
